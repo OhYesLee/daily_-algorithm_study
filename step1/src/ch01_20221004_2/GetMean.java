@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 public class GetMean {
     public int getMean(int[] array) {
+
         return (int) Arrays.stream(array).average().orElse(0);
     }
 }
