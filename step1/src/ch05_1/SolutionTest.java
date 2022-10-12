@@ -27,5 +27,10 @@ public class SolutionTest {
     public static void main(String[] args) {
         Solution solution = new Solution();
         System.out.println(solution.solution(6));
+        System.out.println("==============");
+
+        Solution2 solution2 = new Solution2();
+        int ex = 6;
+        System.out.println(solution2.coll(ex));
     }
 }
