@@ -1,6 +1,10 @@
 package ch04_1;
 //// X만큼 간격이 있는 N개의 숫자
+
+import ch04.Solution2;
+
 import java.util.Arrays;
+
 /**
  * 문제 설명
  * 함수 solution은 정수 x와 자연수 n을 입력 받아, x부터 시작해 x씩 증가하는 숫자를 n개 지니는 리스트를 리턴해야 합니다. 다음 제한 조건을 보고, 조건을 만족하는 함수, solution을 완성해주세요.
@@ -16,7 +20,10 @@ import java.util.Arrays;
 public class SolutionTest {
     public static void main(String[] args) {
         Solution solution = new Solution();
+        //Arrays.toString으로 랩핑했다 알아보자
         System.out.println(Arrays.toString(solution.solution(-2, 10)));
 
+        Solution3 solution3 = new Solution3();
+        System.out.println(Arrays.toString(solution3.solution3(-2, 10)));
     }
 }
