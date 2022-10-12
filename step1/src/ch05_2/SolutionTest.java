@@ -34,5 +34,12 @@ public class SolutionTest {
         System.out.println(solution3.solution3(3, 5));
         System.out.println(solution3.solution3(3, 3));
         System.out.println(solution3.solution3(5, 3));
+
+        System.out.println("============");
+
+        Solution4 solution4 = new Solution4();
+        System.out.println(solution4.solution4(3, 5));
+        System.out.println(solution4.solution4(3, 3));
+        System.out.println(solution4.solution4(5, 3));
     }
 }
