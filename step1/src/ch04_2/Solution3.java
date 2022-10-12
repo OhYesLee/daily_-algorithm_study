@@ -1,4 +1,4 @@
-package ch04_1;
+package ch04_2;
 
 /**
  * 위의 코드는 answer[0]에 x 값을 넣은 후 for문을 돌려서 answer[i-1]한 값에 x를 더하는 방법으로 풀이했다.

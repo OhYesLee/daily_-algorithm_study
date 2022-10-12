@@ -1,7 +1,5 @@
-package ch04_1;
+package ch04_2;
 //// X만큼 간격이 있는 N개의 숫자
-
-import ch04.Solution2;
 
 import java.util.Arrays;
 
