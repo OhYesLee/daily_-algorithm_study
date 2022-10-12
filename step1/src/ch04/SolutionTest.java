@@ -19,6 +19,12 @@ public class SolutionTest {
         Solution solution = new Solution();
         System.out.println(solution.solution("-1234"));
         System.out.println(solution.solution("1234"));
+
+        System.out.println("====================");
+
+        Solution2 solution2 = new Solution2();
+        System.out.println(solution2.solution2("123"));
+        System.out.println(solution2.solution2("-1234"));
     }
 }
 
