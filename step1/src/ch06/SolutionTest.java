@@ -19,9 +19,15 @@ public class SolutionTest {
         Solution solution = new Solution();
         String numberone = "01085075727";
         System.out.println(solution.solution(numberone));
+
         System.out.println("=============================");
         SolutionTwo solutiontwo = new SolutionTwo();
         String numbertwo = "01085075727";
         System.out.println(solution.solution(numbertwo));
+
+        System.out.println("=============================");
+        SolutionThree solutionthree = new SolutionThree();
+        String numberthree = "01085075727";
+        System.out.println(solution.solution(numberthree));
     }
 }
