@@ -1,4 +1,4 @@
-package ch07_2;
+package ch07_2_re;
 
 import java.util.ArrayList;
 import java.util.Arrays;

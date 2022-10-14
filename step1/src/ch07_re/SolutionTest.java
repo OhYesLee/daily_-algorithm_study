@@ -1,4 +1,4 @@
-package ch07;
+package ch07_re;
 
 /**
  * 문제 설명

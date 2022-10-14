@@ -1,6 +1,4 @@
-package ch07_2;
-
-import java.util.Arrays;
+package ch07_2_re;
 
 /**
  * 문제 설명
@@ -20,6 +18,6 @@ import java.util.Arrays;
 public class SolutionTest {
     public static void main(String[] args) {
         SolutionOne solutionOne = new SolutionOne();
-        System.out.println(solutionOne.solution());
+        System.out.println(solutionOne.solution(solutionOne.arr));
     }
 }
