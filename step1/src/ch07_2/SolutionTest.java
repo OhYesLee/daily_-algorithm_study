@@ -1,5 +1,7 @@
 package ch07_2;
 
+import java.util.Arrays;
+
 /**
  * 문제 설명
  * 정수를 저장한 배열, arr 에서 가장 작은 수를 제거한 배열을 리턴하는 함수, solution을 완성해주세요.
@@ -17,6 +19,7 @@ package ch07_2;
  */
 public class SolutionTest {
     public static void main(String[] args) {
-        
+        SolutionOne solutionOne = new SolutionOne();
+        System.out.println(solutionOne.solution());
     }
 }
