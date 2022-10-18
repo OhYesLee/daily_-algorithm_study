@@ -18,6 +18,9 @@ public class SolutionTest {
     public static void main(String[] args) {
 
         Solution solution = new Solution();
-        System.out.println(solution.solution(solution.arr1));
+//        System.out.println(solution.solution(solution.arr1));
+
+        SolutionTwo solutionTwo = new SolutionTwo();
+        System.out.println(solutionTwo.solutionTwo(1, 2, 3));
     }
 }
