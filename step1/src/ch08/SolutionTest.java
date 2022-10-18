@@ -1,5 +1,6 @@
 package ch08;
 
+
 /*
 문제 설명
 
@@ -15,8 +16,8 @@ arr	return
  */
 public class SolutionTest {
     public static void main(String[] args) {
-        int[] arr = {1, 2, 3, 4};
+
         Solution solution = new Solution();
-        System.out.println(solution.solution(arr));
+        System.out.println(solution.solution(solution.arr1));
     }
 }

@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class Solution {
+    int [] arr1 = { 1,2,3,4,5};
     public int[] solution(int[] arr) {
         int[] answer = {}; //답을 return할 배열
         ArrayList<Integer> list = new ArrayList<Integer>();
