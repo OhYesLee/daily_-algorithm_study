@@ -5,6 +5,6 @@ public class SolutionTestTwo {
         SolutionOne solutionOne = new SolutionOne();
         int[] win = {1, 2, 3, 4, 5, 6};
         int[] lot = {1, 2, 3, 4, 5, 6};
-
+        System.out.println(solutionOne.solution(win, lot));
     }
 }
