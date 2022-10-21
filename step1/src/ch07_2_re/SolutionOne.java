@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class SolutionOne {
-    int [] arr = {4,3,2,1};
+    int [] arr = {10};
     public int[] solution(int[] arr) {
         if (arr.length == 1) {
             arr[0] = -1;
