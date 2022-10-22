@@ -1,5 +1,7 @@
 package ch07_re;
 
+import java.util.Arrays;
+
 /**
  * 문제 설명
  * array의 각 element 중 divisor로 나누어 떨어지는 값을 오름차순으로 정렬한 배열을 반환하는 함수, solution을 작성해주세요.
@@ -33,7 +35,8 @@ public class SolutionTest {
         int[] arr = {1, 2, 5, 7, 10};
         int divisor = 5;
         SolutionTwo solutionTwo = new SolutionTwo();
-        System.out.println(solutionTwo.solutiontwo(arr, divisor));
+
+        System.out.println(Arrays.toString(solutionTwo.solutiontwo(arr,divisor)));
 
     }
 }
