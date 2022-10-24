@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class solutionOne {
+    int [] abc = {1,2,3,4,5};
     public int[] solution(int[] answers) {
         int[] answer = {};
         int[] temp = new int[3];

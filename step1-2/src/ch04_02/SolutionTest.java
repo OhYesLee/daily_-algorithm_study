@@ -23,7 +23,7 @@ import java.util.Arrays;
 public class SolutionTest {
     public static void main(String[] args) {
         solutionOne solutionOne = new solutionOne();
-        int[] h1= {1,2,3,4,5};
-        System.out.println(Arrays.toString(solutionOne.solution(solutionOne.solution(h1))));
+//        int[] h1= {1,2,3,4,5};
+        System.out.println(Arrays.toString(solutionOne.solution(solutionOne.abc)));
     }
 }
