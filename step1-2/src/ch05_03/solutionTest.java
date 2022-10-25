@@ -12,6 +12,8 @@ package ch05_03;
  */
 public class solutionTest {
     public static void main(String[] args) {
-        solutionOne solutionOne = new
+        solutionOne solutionOne = new solutionOne();
+        int data = solutionOne.showSolutionOne();
+        System.out.println(data);
     }
 }

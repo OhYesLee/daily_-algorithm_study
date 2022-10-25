@@ -10,7 +10,7 @@ public class solutionOne {
         return answer;
     }
 
-//    public int showSolutionOne(){
-//        return Integer.parseInt(solution(3));
-//    }
+    public int showSolutionOne(){
+        return Integer.parseInt(solutionOne(3));
+    }
 }
