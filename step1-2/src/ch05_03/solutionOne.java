@@ -1,6 +1,7 @@
 package ch05_03;
 
 public class solutionOne {
+    int n = 3;
     public String solutionOne(int n) {
         String answer = "";
         for (int i = 1; i <= n; i++) {
