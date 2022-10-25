@@ -1,4 +1,4 @@
-package sh05_02;
+package sh05_02re;
 
 public class solutionTwo {
     public long solution(int a, int b) {
