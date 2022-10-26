@@ -16,6 +16,8 @@ package sh05_02re;
  */
 public class solutionTest {
     public static void main(String[] args) {
+        solutionOne solutionOne = new solutionOne();
+        System.out.println(solutionOne.solution(3,5));
 
     }
 }
