@@ -18,6 +18,9 @@ public class solutionTest {
     public static void main(String[] args) {
         solutionOne solutionOne = new solutionOne();
         System.out.println(solutionOne.solution(3,5));
+        System.out.println("============");
 
+        solutionTwo solutionTwo = new solutionTwo();
+        System.out.println(solutionTwo.solution(3,5));
     }
 }
