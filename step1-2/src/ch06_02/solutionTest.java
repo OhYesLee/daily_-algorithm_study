@@ -31,6 +31,7 @@ public class solutionTest {
         System.out.println(a.add(b));
         System.out.println(a.subtract(b));
         System.out.println(a.multiply(b));
+        System.out.println(a.max(b));
 
     }
 }
