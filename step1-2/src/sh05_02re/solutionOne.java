@@ -1,8 +1,7 @@
 package sh05_02re;
 
 public class solutionOne {
-    int a = 3;
-    int b = 5;
+
     public long solution(int a, int b) {
         long answer = 0;
         if (a > b) //a가 b보다 큰 경우
