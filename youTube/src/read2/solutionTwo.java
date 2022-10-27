@@ -2,7 +2,7 @@ package read2;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//Queue만 활용한 Solution
 public class solutionTwo {
     public int solution(int[] priorities, int location) {
         // 1. List로 만들기
