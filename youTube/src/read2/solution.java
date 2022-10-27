@@ -4,7 +4,7 @@ import java.awt.*;
 import java.util.ArrayList;
 import java.util.*;
 import java.util.List;
-
+//Class + Queue를 활용한 Solution
 public class solution {
     public int solution(int[] priorities, int location) {
         // 1. List로 만들기
