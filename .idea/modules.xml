@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/dailyRecord/dailyRecord.iml" filepath="$PROJECT_DIR$/dailyRecord/dailyRecord.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/daily_-algorithm_study.iml" filepath="$PROJECT_DIR$/.idea/daily_-algorithm_study.iml" />
       <module fileurl="file://$PROJECT_DIR$/step1/step1.iml" filepath="$PROJECT_DIR$/step1/step1.iml" />
       <module fileurl="file://$PROJECT_DIR$/step1-2/step1-2.iml" filepath="$PROJECT_DIR$/step1-2/step1-2.iml" />
