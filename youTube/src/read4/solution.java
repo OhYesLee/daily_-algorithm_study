@@ -18,7 +18,7 @@ public class solution {
             } else {
                 System.out.print(String.valueOf(c).toUpperCase());
             }
-            System.out.println();
         }
+        System.out.println();
     }
 }
