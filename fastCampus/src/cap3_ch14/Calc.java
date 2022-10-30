@@ -1,4 +1,4 @@
-package test01;
+package cap3_ch14;
 
 public interface Calc {
     double PI = 3.14;
