@@ -7,6 +7,6 @@ public class solutionTest {
 
         int[] arr = {1, 2, 3, 4};
         solution solution = new solution();
-        System.out.println(Arrays.toString(solution.sol(arr)));
+//        System.out.println(Arrays.toString(solution.sol(arr)));
     }
 }
