@@ -8,6 +8,6 @@ public class solutionTest {
         System.out.println("=======");
 
         solutionTwo solutionTwo = new solutionTwo();
-        System.out.println(solutionTwo.solutionTwo());
+        System.out.println(solutionTwo.solutionTwo(8,12));
     }
 }
