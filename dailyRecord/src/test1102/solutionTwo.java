@@ -17,7 +17,7 @@ public class solutionTwo {
      * @param h: [int] 세로 길이
      * @return [int] 해답
      */
-    public long solution(int w, int h) {
+    public long solutionTwo(int w, int h) {
         long ref = gcd(w, h);
 
         return ((long) w * h) - (((w / ref) + (h / ref) - 1) * ref);
