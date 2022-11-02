@@ -1,5 +1,5 @@
 package test1102;
-
+///[Java, 자바]Programmers - 멀쩡한 사각형/////
 public class read {
     /**
      * 문제 설명
