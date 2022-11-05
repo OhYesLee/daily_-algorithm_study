@@ -9,7 +9,7 @@ public class solutionTest {
         solutionTwo solutionTwo = new solutionTwo();
 //        System.out.println(Arrays.toString(solutionTwo.solutionTwo("1,2,3,4")));
 //        System.out.println(solutionTwo.solutionTwo("1,2,3,4"));
-        System.out.println(solutionTwo.solutionTwo(str));
+//        System.out.println(solutionTwo.solutionTwo(str));
         System.out.println("==========");
 
 
