@@ -20,5 +20,10 @@ public class solutionTest {
             }
         }
         if (cnt < k) System.out.println("0");
+
+        int [] arr = {1, 5, 2, 6, 3, 7, 4};
+//        int [][] arr2 = {(2, 5, 3), (4, 4, 1), (1, 7, 3)};
+        solution solution = new solution();
+//        System.out.println(solution.solution());
     }
 }
