@@ -1,4 +1,4 @@
-package ch06;
+package read2.ch06;
 ///////[백준 알고리즘] 15814번 / 야바위 대장////////
 
 import java.util.Scanner;
