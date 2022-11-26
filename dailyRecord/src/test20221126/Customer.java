@@ -1,6 +1,6 @@
 package test20221126;
 
-public class Customer implements Buy, Sell {
+public class Customer implements Buy, Sell{
 
     @Override
     public void sell() {
@@ -15,5 +15,12 @@ public class Customer implements Buy, Sell {
     public void sayHello() {
         System.out.println("Hello");
     }
+
+    @Override
+    public void order() {
+        System.out.println("customer order");
+    }
+
 }
+
 
