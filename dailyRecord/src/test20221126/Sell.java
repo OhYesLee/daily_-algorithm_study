@@ -1,7 +1,9 @@
 package test20221126;
 
-public class Sell {
+public interface Sell {
+
     void sell();
 
 
 }
+
