@@ -16,6 +16,10 @@ public class CustomerTest {
         Sell seller = customer;
         seller.sell();
 
+        buyer.order();
+        seller.order();
+
     }
 }
+
 
