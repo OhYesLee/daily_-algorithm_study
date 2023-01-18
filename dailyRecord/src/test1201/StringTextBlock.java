@@ -25,13 +25,5 @@ public class StringTextBlock {
                 </html>""";
 
     }
-    class A {
-        public B createb(){
-            
-        }
-    }
-    class B {
-
-    }
-
+    
 }
